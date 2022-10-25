@@ -22,7 +22,7 @@
   -o-object-fit: cover;
      object-fit: cover;
 }
-.container .Text {
+.container .text {
   grid-area: 2/2/5/3;
   background-color: #42583c;
   padding: 5% 20%;
